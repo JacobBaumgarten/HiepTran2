@@ -5,6 +5,7 @@
 <b>
   Hey! I'm Hiep Tran, an aspiring coder! 
 </b>
+
 I'm eager to learn and become proffecient in many of the major programming languages.
 
 ---
