@@ -3,10 +3,11 @@
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="200"/>
 </div>
 
-<b> 
-  Hey! I'm Hiep Tran, an aspiring coder! 
-</b>
-
+<center>
+  <b> 
+    Hey! I'm Hiep Tran, an aspiring coder! 
+  </b>
+</center>c
 I'm eager to learn and become proffecient in many of the major programming languages.
 
 ---
