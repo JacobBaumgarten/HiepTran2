@@ -3,7 +3,12 @@
   <img src="https://media.giphy.com/media/fwbZnTftCXVocKzfxR/giphy.gif" width="200"/>
 </div>
 
-h1 {text-align: center;}
+<html>
+  <style>
+    h1 {text-align: center;}
+  </style>
+
+
 <b> 
  <h1> 
    Hey! I'm Hiep Tran, an aspiring coder! 
