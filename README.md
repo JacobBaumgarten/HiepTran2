@@ -16,5 +16,6 @@ I'm eager to learn and become proffecient in many of the major programming langu
 
 - Python
 
-  And I hopt to continue extending this list as I get better!
+
+And I hope to continue extending this list as I get better!
 
