@@ -19,3 +19,8 @@ I'm eager to learn and become proffecient in many of the major programming langu
 
 And I hope to continue extending this list as I get better!
 
+
+<b>
+  There isn't much to see here yet, but soon enough this will be the most glamorous profile Readme ever.
+</b>
+
