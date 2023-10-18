@@ -8,7 +8,9 @@
 </b>
 
 I'm eager to learn and become proffecient in many of the major programming languages.
+
 ---
+
 Below is a list of all the programming languages I have used:
 - Python
 
