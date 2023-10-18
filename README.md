@@ -8,4 +8,5 @@
 </center>
 <h2 style="font-size:200%;"> - I'm eager to learn and become proffecient in many of the major programming languages.  </h2>
 <h3 style="font-size:200%;"> - Below is a list of all the programming languages I have used:</h3>
+-Python
 
