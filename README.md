@@ -5,7 +5,9 @@
 
 h1 {text-align: center;}
 <b> 
- <h1> Hey! I'm Hiep Tran, an aspiring coder! </h1>
+ <h1> 
+   Hey! I'm Hiep Tran, an aspiring coder! 
+ </h1>
 </b>
 
 I'm eager to learn and become proffecient in many of the major programming languages.
