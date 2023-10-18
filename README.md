@@ -1,3 +1,5 @@
 <center>
-  Hey! I'm Hiep Tran, an aspiring coder!
+  <b>
+    Hey! I'm Hiep Tran, an aspiring coder!
+  </b>
 </center>
